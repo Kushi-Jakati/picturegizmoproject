@@ -30,6 +30,8 @@ public class GizmoMain {
 	static ControlPanel controlPanel;
 	static Color swatch;
 
+//Submitted due to CTIS project containing outside libraries. 
+
 	public static void main(String[] args) throws URISyntaxException {
 		// TODO Auto-generated method stub
 		// Read the input image
